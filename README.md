@@ -21,6 +21,12 @@ welcome here: if it runs on a Shrike board, it belongs.
 
 ---
 
+## 100 Days of Shrike
+
+[Drik Paul](https://github.com/drik245) has created a very comprehensive repo for 100 days of shrike project and he is actively workign on it.
+Check it out [here](https://github.com/drik245/v4k_shrike).
+
+
 ## Repo layout
 
 ```
